@@ -1,0 +1,11 @@
+pytorch-transformers
+torch
+# metric
+seqeval
+# training progressbar
+tqdm
+# tokeniztion
+nltk
+# for rest api
+Flask
+Flask-Cors
